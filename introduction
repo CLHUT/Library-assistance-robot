@@ -4,3 +4,6 @@ Our project aims the need of a librarian for collecting books from the library c
 Our robot helps the users to identify the positions of various books in the library.
 The project mainly focuses on a line follower robot that  follows a black line drwan over a white surface.
 The robot uses IR sensors to dectect the postion and it moves accordingly.
+At present the world is moving with industrial automation and many improvements in the field of robotics but we are lagging in the case of library.
+Despite from the vast availabilty of ebooks such as kindle etc people is still favour in reading books.
+In large libraries people invest more time to serach books.so our project is valid here.

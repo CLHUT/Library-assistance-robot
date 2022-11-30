@@ -1,2 +1,6 @@
 # Library automation robot
-Robots are engaged in various activities in our day to day life.Our project aims the need of a librarian for collecting books from the library counter arraging them in a proper order.our robot helps the users to identify the positions of various books in the library.
+Robots are engaged in various activities in our day to day life.
+Our project aims the need of a librarian for collecting books from the library counter arraging them in a proper order.
+Our robot helps the users to identify the positions of various books in the library.
+The project mainly focuses on a line follower robot that  follows a black line drwan over a white surface.
+The robot uses IR sensors to dectect the postion and it moves accordingly.
